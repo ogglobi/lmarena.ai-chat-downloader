@@ -47,6 +47,45 @@ A Tampermonkey userscript to download chat conversations from [LM Arena](https:/
 
 4. The chat will be downloaded as a `.md` (Markdown) file
 
+## 🔧 Compatibility
+✅ Chrome + Tampermonkey
+✅ Firefox + Tampermonkey
+✅ Edge + Tampermonkey
+✅ Safari + Tampermonkey
+✅ lmarena.ai
+✅ chat.lmsys.org
+
+## 🐛 Troubleshooting
+Buttons don't appear?
+
+Wait a few seconds after page load
+Refresh the page
+Check if Tampermonkey is enabled
+No messages found?
+
+Make sure you have an active chat open
+Try scrolling through the chat manually first
+Use "Manual Select" as fallback
+Wrong message order?
+
+Use "Manual Select" to pick messages in the correct order
+
+## 📜 License
+MIT License - see LICENSE file
+
+## 🙏 Credits
+Original concept inspired by akira0245's script
+Completely rewritten for the new LM Arena interface
+
+## 🤝 Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+Fork the repository
+Create your feature branch (git checkout -b feature/AmazingFeature)
+Commit your changes (git commit -m 'Add some AmazingFeature')
+Push to the branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+
 ## 📄 Export Format
 
 ```markdown
@@ -69,3 +108,5 @@ Your message here...
 AI response here...
 
 ---
+
+
