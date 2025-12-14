@@ -71,6 +71,11 @@ Wrong message order?
 
 Use "Manual Select" to pick messages in the correct order
 
+## ☕ Support
+If you find this script useful, consider buying me a coffee!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ogglobi)
+
 ## 📜 License
 MIT License - see LICENSE file
 
@@ -108,6 +113,6 @@ Your message here...
 
 AI response here...
 
----
+```
 
-
+<p align="center"> Made with ❤️ by <a href="https://github.com/ogglobi">ogglobi</a> </p><p align="center"> <a href="https://ko-fi.com/ogglobi"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-orange?style=flat-square" alt="Ko-fi"> </a> </p> ```
