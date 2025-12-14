@@ -1,6 +1,7 @@
 # lmarena.ai-chat-downloader
 Tampermonkey userscript to download LMSYS Arena chat conversations as Markdown
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ogglobi)
 
 # LMSYS Chat Downloader
 
